@@ -1,6 +1,3 @@
-# 2021-01-25
-
-
 ## Install
 
 To install the command line tools, please see [dcrinstaller](https://github.com/decred/decred-release/tree/master/cmd/dcrinstall).
