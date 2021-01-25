@@ -16,6 +16,7 @@ See [README.md](./README.md#verifying-binaries) for more info on verifying the f
 * [dcrlnd](#dcrlnd-v030)
 * [dcrdex](#dcrdex-v014)
 
+<a name="dcrd-v160" />
 
 # dcrd v1.6.0
 
@@ -307,6 +308,8 @@ See the [dcrd's own release notes](https://github.com/decred/dcrd/releases/tag/r
 - zhizhongzhiwai
 
 
+<a name="dcrwallet-v160" />
+
 # dcrwallet v1.6.0
 
 This release focuses on adding support for the decentralized Decred treasury, 
@@ -586,6 +589,7 @@ In alphabetical order:
 - Victor Oliveira
 - Wisdom Arerosuoghene
 
+<a name="decrediton-v160" />
 
 # decrediton v1.6.0
 
@@ -699,6 +703,7 @@ In alphabetical order:
 Welcome our new additions to the decrediton team: Amir Massarwa, bgptr, 
 Fernando Guisso, JoeGruffins, Guilherme Marques, Victor Guedes.
 
+<a name="dcrlnd-v030" />
 
 # dcrlnd v0.3.0
 
@@ -820,6 +825,8 @@ Decred.
 We wish to sincerely thank them for providing such a high quality project 
 and hope we can continue to contribute in building a large scale and cross-coin 
 LN ecosystem.
+
+<a name="dcrdex-v014" />
 
 # dcrdex v0.1.4
 
