@@ -192,7 +192,7 @@ This release consists of 616 commits from 17 contributors which total to 526 fil
 
 All commits since the last release may be viewed on GitHub [here](https://github.com/decred/dcrd/compare/release-v1.5.2...release-v1.6.0).
 
-See the [dcrd's own release notes](https://github.com/decred/dcrd/releases/tag/release-v1.6.0) for a cateogrized breakdown of all commits since the last release.
+See the [dcrd's own release notes](https://github.com/decred/dcrd/releases/tag/release-v1.6.0) for a categorized breakdown of all commits since the last release.
 
 ### Code Contributors (Alphabetical Order)
 
