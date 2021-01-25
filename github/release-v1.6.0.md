@@ -7,6 +7,7 @@ See manifest-v1.6.0.txt, and the package specific manifest files for sha256 sums
 
 See [README.md](./README.md#verifying-binaries) for more info on verifying the files.
 
+[Skip to downloads](#v160-end)
 
 ## Contents
 
@@ -1363,3 +1364,5 @@ Contributors (alphabetical order):
 - @zeoio
 
 (there is no previous release to which a diff can be made)
+
+<a name="v160-end" />
