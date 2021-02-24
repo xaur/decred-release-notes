@@ -1,6 +1,3 @@
-# 2021-02-23
-
-
 ## Install
 
 To install Decrediton desktop wallet, download, uncompress, and run
