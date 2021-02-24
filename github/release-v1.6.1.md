@@ -24,6 +24,7 @@ files.
 * [Decrediton](#decrediton-v161)
 * [dcrdex](#dcrdex-v015)
 
+<a name="dcrd-v161" />
 
 # dcrd v1.6.1
 
@@ -59,6 +60,7 @@ All commits since the last release may be viewed on GitHub
 
 - Dave Collins
 
+<a name="dcrwallet-v161" />
 
 # dcrwallet v1.6.1
 
@@ -110,6 +112,7 @@ All commits since the last release may be viewed on GitHub
 
 - Josh Rickmar
 
+<a name="decrediton-v161" />
 
 # Decrediton v1.6.1
 
@@ -194,6 +197,7 @@ All commits since the last release may be viewed on GitHub
 - smartwojak
 - Victor Oliveira
 
+<a name="dcrdex-v015" />
 
 # dcrdex v0.1.5
 
