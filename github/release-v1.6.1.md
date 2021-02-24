@@ -16,6 +16,7 @@ and the associated .asc signature files to confirm those hashes.
 See [README.md](./README.md#verifying-binaries) for more info on verifying the
 files.
 
+[Skip to downloads](#downloads-v161)
 
 ## Contents
 
@@ -264,3 +265,5 @@ https://github.com/decred/dcrdex/compare/v0.1.4...v0.1.5
 - Brian Stafford (@buck54321) (review)
 - David Hill (@dajohi) (blake2 fix)
 - Jonathan Chappelow (@chappjc)
+
+<a name="downloads-v161" />
