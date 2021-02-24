@@ -65,8 +65,6 @@ This release focuses on fixing issues with the new VSP fee payments and account 
 
 * Account and output mixing now considers the required fee necessary when selecting which common output amount and output count to mix with.  This fixes mixing for some outputs which are currently being rejected by the CoinShuffle++ server due to not paying enough of the required transaction fee.
 
-* Fixed a chance to select wrong mix denomination during output mixing, which could result in a very high transaction fee.
-
 * The `signrawtransaction` JSON-RPC method was changed to return an error if the transaction being signed has no inputs.
 
 * The salsa20 and blake2b dependencies were updated to prevent possible memory corruption caused by smashing the SP register in optimized assembly implementations.
