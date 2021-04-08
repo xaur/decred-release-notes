@@ -16,6 +16,7 @@ and the associated .asc signature files to confirm those hashes.
 See [README.md](./README.md#verifying-binaries) for more info on verifying the
 files.
 
+[Skip to downloads](#downloads-v162)
 
 ## Contents
 
@@ -113,3 +114,5 @@ All commits since the last release may be viewed on GitHub
 - Amir Massarwa
 - bgptr
 - Matheus Degiovani
+
+<a name="downloads-v162" />
