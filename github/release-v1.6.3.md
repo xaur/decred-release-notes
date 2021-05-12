@@ -16,6 +16,8 @@ and the associated .asc signature files to confirm those hashes.
 See [README.md](./README.md#verifying-binaries) for more info on verifying the
 files.
 
+[Skip to downloads](#downloads-v163)
+
 
 ## Contents
 
@@ -23,6 +25,8 @@ files.
 * [Decrediton](#decrediton-v163)
 * [DCRDEX](#dcrdex-v020)
 
+
+<a id="dcrwallet-v163" />
 
 # dcrwallet v1.6.3
 
@@ -77,6 +81,7 @@ All commits since the last release may be viewed on GitHub
 * Victor Oliveira
 * Wisdom Arerosuoghene
 
+<a id="decrediton-v163" />
 
 # Decrediton v1.6.3
 
@@ -137,6 +142,7 @@ All commits since the last release may be viewed on GitHub
 * Scott Christian
 * Victor Oliveira
 
+<a id="dcrdex-v020" />
 
 # DCRDEX v0.2.0
 
@@ -476,3 +482,5 @@ https://github.com/decred/dcrdex/compare/4517832...release-v0.2
 - @peterzen
 - Victor Oliveira (@vctt94)
 - Wisdom Arerosuoghene (@itswisdomagain)
+
+<a id="downloads-v163" />
